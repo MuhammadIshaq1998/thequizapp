@@ -7,7 +7,8 @@ As per the deadline, only the backend implementation od this project has been im
 In the project directory, you can run:
 
 
-### `npm start`
+### `npm start` 
+### `nodemon index`
 
 This project has ".env" is public, can be made it invisible by writing in "gitignore"file but made it public for the convenience.
 Runs the app in the development mode.
